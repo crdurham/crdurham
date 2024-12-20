@@ -7,6 +7,12 @@ body {
   background-color: rgb(0, 77, 57);
 }
 
+head {
+	width: 95%;
+	margin: 10px;
+	
+}
+
 h1 {
 	font-family:Baskervville;
 	font-size: 36px;
